@@ -5,27 +5,27 @@ module.exports = {
   theme: {
     fontSize: {
       base: [
-        '12px',
+        '14px',
         { fontWeight: 500, lineHeight: '15px', letterSpacing: '-0.25px' },
       ],
       base2: [
-        '11px',
+        '13px',
         { fontWeight: 500, lineHeight: '18px', letterSpacing: '- 0.23px' },
       ],
       lg: [
-        '12px',
+        '14px',
         { fontWeight: 700, lineHeight: '15px', letterSpacing: '-0.25px' },
       ],
       '2lg': [
-        '16px',
+        '18px',
         { fontWeight: 700, lineHeight: '24px', letterSpacing: '-0.8px' },
       ],
       xl: [
-        '20px',
+        '22px',
         { fontWeight: 700, lineHeight: '22px', letterSpacing: '-0,63px' },
       ],
       '2xl': [
-        '32px',
+        '34px',
         { fontWeight: 700, lineHeight: '36px', letterSpacing: '-1px ' },
       ],
     },
