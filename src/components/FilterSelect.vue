@@ -33,7 +33,8 @@ watch(filterStates, () => {
 		<div class="relative text-black dark:text-white transition">
 			<ListboxButton>
 				<div class="flex items-center gap-3">
-					<span>Filter</span>
+					<span class="md:inline hidden">Filter by status</span>
+					<span class="md:hidden inline">Filter</span>
 					<ChevronDownIcon />
 				</div>
 			</ListboxButton>

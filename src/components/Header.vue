@@ -29,3 +29,4 @@ function setColorTheme() {
 	</header>
 </template>
 
+// refléchir si pour en faire une side bar je fais un composant ou j'utilise que du CSS
